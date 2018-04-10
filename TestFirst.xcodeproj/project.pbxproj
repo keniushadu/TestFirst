@@ -15,6 +15,7 @@
 		C0097CD12021ECCD0098144A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C0097CD02021ECCD0098144A /* main.m */; };
 		C0097CDB2021ECCD0098144A /* TestFirstTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C0097CDA2021ECCD0098144A /* TestFirstTests.m */; };
 		C0097CE62021ECCD0098144A /* TestFirstUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = C0097CE52021ECCD0098144A /* TestFirstUITests.m */; };
+		C0097CF42021ECE90098144A /* work.gpx in Resources */ = {isa = PBXBuildFile; fileRef = C0097CF32021ECE90098144A /* work.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C0097CE12021ECCD0098144A /* TestFirstUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestFirstUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0097CE52021ECCD0098144A /* TestFirstUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestFirstUITests.m; sourceTree = "<group>"; };
 		C0097CE72021ECCD0098144A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0097CF32021ECE90098144A /* work.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = work.gpx; path = ../../../Desktop/work.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		C0097CC02021ECCD0098144A /* TestFirst */ = {
 			isa = PBXGroup;
 			children = (
+				C0097CF32021ECE90098144A /* work.gpx */,
 				C0097CC12021ECCD0098144A /* AppDelegate.h */,
 				C0097CC22021ECCD0098144A /* AppDelegate.m */,
 				C0097CC42021ECCD0098144A /* ViewController.h */,
@@ -238,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0097CF42021ECE90098144A /* work.gpx in Resources */,
 				C0097CCE2021ECCD0098144A /* LaunchScreen.storyboard in Resources */,
 				C0097CCB2021ECCD0098144A /* Assets.xcassets in Resources */,
 				C0097CC92021ECCD0098144A /* Main.storyboard in Resources */,
